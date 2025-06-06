@@ -64,7 +64,7 @@
 }
 
 .header-search input {
-  border: 1px solid #1f223e;
+  border: 1px solid #225ba4;
   box-shadow: none;
   color: #303030;
   float: left;
@@ -118,7 +118,7 @@
 }
 
 .main-menu > li > a {
-  color: #1f223e;
+  color: #225ba4;
   display: block;
   font-size: 14px;
   font-weight: 400;
@@ -134,7 +134,7 @@
 .main-menu > li:hover > a,
 .drop-menu > li:hover > a,
 .single-mega-item > li:hover > a {
-  color: #225ba4;
+  color: #b3ec5c;
 }
 
 /*drop-menu Style*/
@@ -253,7 +253,7 @@
   position: absolute;
   width: 100%;
   margin: auto;
-  background: rgba(31, 34, 62, 0.9) none repeat scroll 0 0;
+  background: #225ba4 none repeat scroll 0 0;
   transition: all 0.3s ease 0s;
 }
 
@@ -262,7 +262,7 @@
 }
 
 .transparent-header .main-menu > li:hover > a {
-  color: #225ba4;
+  color: #b8ef6a;
 }
 
 .transparent-header.sticky {

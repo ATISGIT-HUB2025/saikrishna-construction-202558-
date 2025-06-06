@@ -125,7 +125,7 @@ h6,
 .h5,
 .h6 {
   font-family: "Raleway", sans-serif;
-  color: #1f223e;
+  color: #225ba4;
   -webkit-font-variant-ligatures: common-ligatures;
   font-variant-ligatures: common-ligatures;
   margin-top: 0;
@@ -316,7 +316,7 @@ mark {
 }
 
 span.tooltip-content {
-  color: #1f223e;
+  color: #225ba4;
   cursor: help;
   font-size: 18px;
   font-weight: 400;
@@ -1724,7 +1724,7 @@ textarea:focus {
 }
 
 .bg-blue {
-  background: #1f223e;
+  background: #225ba4;
 }
 
 .bg-theme {

@@ -372,7 +372,7 @@
   padding: 15px 0;
   text-align: center;
   color: #bababa;
-  background: #1f223e none repeat scroll 0 0;
+  background: #225ba4 none repeat scroll 0 0;
 }
 
 .flat-desc > li + li {
@@ -468,7 +468,7 @@
   margin-bottom: 60px;
   -webkit-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  border-bottom: 4px solid #1f223e;
+  border-bottom: 4px solid #225ba4;
 }
 
 .single-agent:hover {
@@ -704,7 +704,7 @@
   padding: 15px;
   -webkit-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  border-bottom: 4px solid #1f223e;
+  border-bottom: 4px solid #225ba4;
 }
 
 .post-title-time {
@@ -720,7 +720,7 @@
   content: "";
   -webkit-transition: all 0.3s ease 0s;
   transition: all 0.3s ease 0s;
-  background: #1f223e;
+  background: #225ba4;
 }
 
 .post-title-time h5 {
@@ -949,7 +949,7 @@
   font-size: 15px;
   font-weight: 400;
   margin-bottom: 0;
-  color: #1f223e;
+  color: #225ba4;
 }
 
 /* -----------------------------------
@@ -1138,7 +1138,7 @@
 }
 
 .submit-btn-1:hover {
-  background: #1f223e none repeat scroll 0 0;
+  background: #225ba4 none repeat scroll 0 0;
 }
 
 /* -----------------------------------
@@ -1214,8 +1214,8 @@
 
 .widget-search-property .btn-hover-1:hover {
   color: #fff;
-  border: 1px solid #1f223e;
-  background: #1f223e none repeat scroll 0 0;
+  border: 1px solid #225ba4;
+  background: #225ba4 none repeat scroll 0 0;
 }
 
 /*widget-featured-property*/
@@ -1846,7 +1846,7 @@
 }
 
 .directory-listing-google-map-area .find-home-item .bs-searchbox input {
-  color: #1f223e;
+  color: #225ba4;
 }
 
 .map-property > a {
