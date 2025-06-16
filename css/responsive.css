@@ -490,7 +490,8 @@
     text-align: center;
   }
   .section-title h3 {
-    font-size: 16px;
+    font-size: 22px;
+    font-weight: bold;
     margin-bottom: 5px;
   }
   .section-title h2 {
